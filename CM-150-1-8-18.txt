@@ -1,0 +1,89 @@
+Creating digital audio
+cmpm 150
+
+Nathan altice
+
+required  to purchase a zoom H1n or H1 portable digital recorder
+high quality headphones are also a good investment
+all software and materials are free
+
+digital recorder needs:
+* to record at 44.1 khz/16 bits
+* wav/aiff compress file
+
+Software
+* Reaper DAW
+* Audacity(maybe)
+* ORCA live audio programming
+
+Pook
+* Power tools for synthesizer programming
+
+Basic acoustics
+What is sound and how do we talk about it?
+we will learn how to talk to and audio engineer
+
+sounds + (faily rapid) changes in air pressire
+disrupting the molecus around somethin
+like throughing a pebble into a pond
+
+things will sound differenclt in different environments
+
+alternating pressure
+pressure vs rarefication
+
+amplitude
+related to loudness
+how we measure varioations in pressure
+
+
+
+wave form visual representation of digital audio
+
+frequency and pitch
+related but not the same
+
+
+
+pitch amplitude loudness
+
+frequency
+
+
+orchestras tune off of an obo
+
+different parts of the world consider different frequnecies pleasing
+musicin westrn  parts  might not sounds nice to some one in indiaand vise verse
+
+every sound wave can ve broken into sine waves
+
+timbre = tnd = "color"
+
+if a violin is playing the same sound and a another instrument they will sound lightly different  b
+
+
+harmonics
+sounds are rich and complex
+hitting the c note on a piano includes more then the c note on another instrument adds  complexity and uniqueness
+
+signal flow
+every step of the audio chain, from the instrument to your ear, is limited by the weakest link
+
+there is not such thinking and true digital audio if we can hear it
+
+
+
+transducer = energy converter
+
+microphone is one type
+every microphone has a"voice"
+
+every recording medium sounds differently
+
+speakers are a transducer
+
+recording = translation
+(or, all recoding is a lie)
+nothing sounds the way you think it headphones
+
+the audio chain matters
