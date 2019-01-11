@@ -1,0 +1,104 @@
+Creating digital audio
+CMPM 150
+
+Nathan altice
+
+MEdium. thing between things
+
+Analog medium(continuous)
+speech
+print(news paper, book,etc.)
+table top games
+painting
+wire
+dance
+live music
+LP(long play)
+Wav cylinder
+cassettes
+8track
+music box
+celluloid
+vhs
+proving
+cv
+lazer disk(video)
+
+inbetween medium
+cable box
+dish
+game+watch
+AR
+controller
+lazer disk(audio)
+
+digital medium(descrete medium)
+cd
+mp3(mpeg layer-3)
+mp4
+flac
+wav
+tiff
+ogg
+midi
+wmv
+avi
+flv
+mkv
+bluray
+ebook
+pdf
+html
+txt
+jpg
+.docx
+
+
+analog audio
+smooth, continuous changed in electrical signal that model variations in air pressure
+
+why is analog good?
+most accurate measure of physical reality
+infinite granularity, can zoom in as much you want
+warmth
+direct manipulation(flanging tape reels)
+material(can collect touch and hold it)
+
+why is analog bad
+noise(electrical interference)
+signal loss of generations
+no fast searching
+bulky,expensive,fragile
+analog != physical
+digital != physical
+
+digital audio
+discrete representation of sounds
+
+why is digital good?
+no(or very little) noise
+infinite replication
+immediate random access
+smol
+easy to process and manipulate
+
+why is digital bad?
+cold, clinical, too perfect
+bit rot, hard disk failure
+and other forms of data loss
+compatibility
+no(or little) direct manipulation
+the infinite problem(can do too many things so you do nothing)
+
+how do we measure digital audio
+sampling rate(horizontal measurement number of amplitude snapshots per seconds)
+frequency spectrum(perceived human hearing)
+bit depth(vertical resolution of individual ...)
+minimum 44.1khz and 16bit audio for human hearing
+
+common digital formats
+telephone                8 khz 7-bit
+compact disc          44.1 khz 16-bit
+dvd                     48 khz 16-bit
+high end computer audio 96 khz 24-bit
+blu ray audio          192 khz 24-bit
