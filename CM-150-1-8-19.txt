@@ -1,7 +1,11 @@
-Creating digital audio
-cmpm 150
-
-Nathan altice
+Jan 8 2019
+CMPM 150 Creating digital audio
+Dr. Nathan Altice
+naltice@ucsc.edu
+Office Hours: Wed. 1–3PM (or by appointment)
+Oleksandra "Saya" Keehl
+okeehl@ucsc.edu
+Office Hours: TBD
 
 required  to purchase a zoom H1n or H1 portable digital recorder
 high quality headphones are also a good investment
@@ -23,44 +27,39 @@ Basic acoustics
 What is sound and how do we talk about it?
 we will learn how to talk to and audio engineer
 
-sounds + (faily rapid) changes in air pressire
-disrupting the molecus around somethin
-like throughing a pebble into a pond
+sounds + (fairly rapid) changes in air pressure
+disrupting the molecules around something
+like throwing a pebble into a pond
 
-things will sound differenclt in different environments
+things will sound different in different environments
 
 alternating pressure
 pressure vs rarefication
 
 amplitude
 related to loudness
-how we measure varioations in pressure
-
-
+how we measure variations in pressure
 
 wave form visual representation of digital audio
 
 frequency and pitch
 related but not the same
 
-
-
 pitch amplitude loudness
 
 frequency
 
 
-orchestras tune off of an obo
+orchestras tune off of an oboe
 
-different parts of the world consider different frequnecies pleasing
-musicin westrn  parts  might not sounds nice to some one in indiaand vise verse
+different parts of the world consider different frequencies pleasing
+music in western  parts  might not sounds nice to some one in india and vise verse
 
-every sound wave can ve broken into sine waves
+every sound wave can be broken into sine waves
 
-timbre = tnd = "color"
+timbre(pronounced tamber) = tone "color"
 
-if a violin is playing the same sound and a another instrument they will sound lightly different  b
-
+if a violin is playing the same sound and a another instrument they will sound lightly different
 
 harmonics
 sounds are rich and complex
@@ -70,8 +69,6 @@ signal flow
 every step of the audio chain, from the instrument to your ear, is limited by the weakest link
 
 there is not such thinking and true digital audio if we can hear it
-
-
 
 transducer = energy converter
 

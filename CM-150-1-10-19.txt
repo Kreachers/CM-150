@@ -1,9 +1,13 @@
-Creating digital audio
-CMPM 150
+Jan 10 2019
+CMPM 150 Creating digital audio
+Dr. Nathan Altice
+naltice@ucsc.edu
+Office Hours: Wed. 1–3PM (or by appointment)
+Oleksandra "Saya" Keehl
+okeehl@ucsc.edu
+Office Hours: TBD
 
-Nathan altice
-
-MEdium. thing between things
+Medium: thing between things
 
 Analog medium(continuous)
 speech
