@@ -1,0 +1,22 @@
+Reading Guide
+AIKIN, POWER TOOLS FOR SYNTHESIZER PROGRAMMING, CHAPTER 2
+
+1.Briefly define sound. How is it produced? How is sound different from music?
+sound is fairly rapid changes in pressure of a medium, usually air.
+Created by moving something creating pressure waves
+
+2.What does frequency measure? What is the frequency range of human hearing?
+How many times a measurement is taken per second.
+20 hz to 20khz
+
+3.Define amplitude. How is it different from loudness?
+
+
+4.What is a transducer? Give three examples.
+
+
+5.Describe the differences between sampling rate and bit resolution.
+
+
+6.Do you have any prior experience with sound? If so, what? What would you like to learn about sound?
+I have about 22 years of experience with sound. I listen to it every day of my life. I would find it hard to live without.
