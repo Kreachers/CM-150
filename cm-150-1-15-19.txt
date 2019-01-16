@@ -1,0 +1,67 @@
+Jan 10 2019
+CMPM 150 Creating digital audio
+Dr. Nathan Altice
+naltice@ucsc.edu
+Office Hours: Wed. 1–3PM (or by appointment)
+Oleksandra "Saya" Keehl
+okeehl@ucsc.edu
+Office Hours: TBD
+
+How do we measure digital quality?
+
+sampling rate
+number of measurements per cycle
+
+Bit depth
+how accurate or resolution of those measurements are vertically on the graph
+
+44.1khz is 44,100 measurements taken per second
+
+average human hearing range is from 20hz to 20khz
+
+Bit crushing
+taking a higher bit audio sample and lowing the bitrate and getting a more gungy sound
+
+clipping
+pushing the frequency beyod what can be measured
+
+
+
+Formats quality vs size
+
+umcomressed
+lossless
+aiff
+wav
+
+
+compressed
+lossless flac
+apple lossless
+
+
+compressed
+lossy
+mpw
+ogg
+aac
+wma
+
+
+bitrate vs bit depth
+
+bit rate is the numner of bits that are conveyed or processed per unit of time
+bit rate is measured is bits/s
+common mp3
+128 kbit/s
+192 kbit/s
+256 kbit/s
+320 kbit/s
+
+cbr vs vbr
+constant bit rate vs variable bit rate
+cbr is large then vbr
+
+important in digital audio, you can always move from higher quality to lower quality but never move versa. you cant create data that isn't there.
+
+lossy audio doesnt belong in this class
