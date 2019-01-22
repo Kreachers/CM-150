@@ -1,0 +1,40 @@
+Reading Guide
+MUSIC AND COMPUTERS, CHAPTER 2
+1. What happens in a digital-to-analog conversion? What is interpolation?
+
+we take snapshots of what the frequency is at intervals determined by the sampling rate
+Interpolation is smoothing out the edges in a digital graph.
+
+2. What is the main distinction between analog and digital representations of information?
+
+analog is continuous so you can take a snapshot at any point of the sound wave and get infinite accuracy. Digital is not continuous so if you look at one spot in the sound wave there is a limit to how accurate it is.
+
+3. According to the Nyquist Theorem, if I wanted to digitally sample a sound that contained frequencies up to 8,500 Hz, what minimum sampling rate would I need?
+
+You would need a 17khz sampling rate.
+
+4. What is undersampling? How does it affect how a recording sounds?
+
+undersampling is when you take to few samples of the sound wave. it sounds kinda muddy or fuzzy.
+
+5. How many numbers can one represent in an 8-bit, 12-bit, 16-bit, and 24-bit value?
+
+ 8-bit : 256 numbers
+ 12-bit: 4096 numbers
+ 16-bit: 65,536 numbers
+ 24-bit: 16,777,216 numbers
+
+6. What’s the difference between an analog and a digital copy?
+
+In theory a digital copy is identical in every way to the original. If you create a digital copy of a compressed audio file it could degrade in quality but for uncompressed and lossy audio files it should be identical.
+Analog copy's are always a lower quality compared to the original due to noise.
+
+7. Your friend says they’re really into “8-bit music,” but, um, actually, you know they listen to their music on CDs. How would you be a know-it-all jerk and explain their technical error?
+
+"Well actually" *pushes glasses up nose* "your music is encoded as a 16 bit due to it being stored on a cd."
+
+(Please do not do this IRL.)
+
+8. If bigger is better, why don’t we always record digital audio at 384 kHz / 128 bits?
+
+mostly because its pointless to a point. there is a point where we humans cant tell the difference between higher sampling rates and bit rates and the higher the bit rate/sampling rate the more space it takes up.
