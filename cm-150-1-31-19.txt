@@ -1,4 +1,4 @@
-Jan 24 2019
+Jan 31 2019
 CMPM 150 Creating digital audio
 Dr. Nathan Altice
 naltice@ucsc.edu
@@ -9,8 +9,4 @@ okeehl@ucsc.edu
 Office Hours: Tuesday 11-12, Wednesday 2-3 (or by appointment)
 Location: E2-256
 
-If you chop off the attack of a sound then it makes it harder to tell what it is
-
-VST(Virtual Studio Technology) - steinburg
-AU - audio units
-RTAS - ProTools proprietary
+Took recordings in class and Nathan messed around with the recording to show us how you can use the small parts of random recordings to makes musical sounds
