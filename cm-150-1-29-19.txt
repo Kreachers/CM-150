@@ -1,0 +1,55 @@
+Jan 29 2019
+CMPM 150 Creating digital audio
+Dr. Nathan Altice
+naltice@ucsc.edu
+Office Hours: Wed. 1–3PM (or by appointment)
+
+Oleksandra "Saya" Keehl
+okeehl@ucsc.edu
+Office Hours: Tuesday 11-12, Wednesday 2-3 (or by appointment)
+Location: E2-256
+
+Capturing audio
+spl: sound pressure level
+
+Dynamic mic: generates a signal using a magnet
+  moving coil microphone
+  flatter duller frequency responds
+  rugged and durable
+  no phantom power needed
+  good for guitar amps, snares, etc
+  large and small diaphragm varieties
+  looks for love in all the wrong places
+
+
+ribbon microphone
+  warm smooth tonal quality
+  dat ribbon is delicate
+  definitely dont' use phantom power
+  $$$$
+  good for horns, guitars amps, pianos, etc
+  understands that saxophones are terrible
+
+Condenser mic: generates a signal using and electrostatic field
+  wide and smooth frequency response
+  detailed sound, esp. in the high responds
+  requires phantom power
+  omni-directional
+  good for acoustic instruments, vox, drum overheads,etc.
+  large and small diaphragm varieties
+  knows what you did last summer(but wont tell anyone)
+
+every micropgone "hears" differently
+polar pattern
+a mic's "spatial hearing"
+
+end addressed mic: you point the mic as what your trying to record
+side addressed mic: you point the mic perpendicular to waht your strying to record
+
+Zoom h1n
+
+audio
+  choose audio file output dont use mp3
+  lo cut: provides a low cut filter with a wolloff 80hz,120,160
+  limiter: prevents clipping caused by sudden lous noises. probably dont use can be a brute force
+  autolevel: when set to on the zoom auto adjusts the input level and disabled the input level dial.doesnt prevent clipping but can help if your are in a busy enviroment. probably dont use
