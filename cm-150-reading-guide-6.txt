@@ -1,0 +1,36 @@
+Reading Guide
+PRACTICAL RECORDING, CHAPTERS 8+10
+
+1. What is an instrument’s or voice’s spectrum? How is it measured?
+
+The spectrum that an instrument or voice produces resonant frequencies depends on the instrument or person.
+We measure an the two resonant frequencies of instruments or voices and then need a microphone that can measure both frequencies.
+For a Cello the fundamentals are between 65hz-698hz and the harmonics are between 1khz-6.5khz
+For an alto voice, their fundamentals are between 175hz-698hz and their harmonics are between 2khz-12khz
+
+2. What two factors affect how distant an instrument will sound when recorded?
+
+a combination of mic sensitivity and how close the mic physically is to the instrument.
+the amount of ambient noise is in the recording the farther the mic is away from that your trying to record the more ambient noise you will get.
+
+3. Describe the three-to-one rule. Why is this rule used?
+
+If you use 2 mics place them a distence apart equal to 3 times the distance from the sound source.
+This phase interference, which is  where you are recording 2 sound sources from 2 different distances which causes the sound source to sounds hollow or filtered
+
+4. Why are stereo mic techniques used? Name and describe two techniques.
+
+To get accurate location of an instrument in a group
+Coincident pair: take two mics and mount them one above the other with their grills touching and angled in different directions
+so like two cardioid mics with an angle of 120 degrees and their grill touching. the greater the angle, the wider the stereo  spread but if the angle is two wide the center will sound weak.
+Spaced pair: get two identical mics spaced several feet apart and aims straight a head.
+
+5. How can a highpass Filter help clean up an instrument’s sound?
+
+when recording the frequencies below a certain point arent heard and can cause some unexpected sounds effects so using a highpass filter to get rid of the extra frequencies below that point can make the instrument sounds better.
+
+6. Describe three uses for equalization.
+
+Improve Tone quality by reducing sibilance or or any unsavory sounds effect when recorded
+Create effects like making you audio sound like its coming through a phone with a 1khz band pass filter
+Reduce noise and leakage by filtering the frequencies that the instrument doesn't produce much sound at
