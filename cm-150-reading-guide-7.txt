@@ -1,6 +1,7 @@
 Reading Guide
 THE CONVERSATIONS: WALTER MURCH AND THE ART OF EDITING FILM, P.112-125
 
+<<<<<<< HEAD
 1. What does Murch mean by metaphorical vs. realistic sound in 8ilm? Explain and describe an example from a film you’ve seen.
 
 
@@ -14,3 +15,24 @@ THE CONVERSATIONS: WALTER MURCH AND THE ART OF EDITING FILM, P.112-125
 
 
 4. What does Murch argue is the correct use of music in 8ilm? Do you agree or disagree? Explain.
+=======
+1. What does Murch mean by metaphorical vs. realistic sound in film? Explain and describe
+an example from a film you’ve seen.
+
+I think what he means is sound that could actually be created my what is happening in the film is realistic while back ground music or overly exaggerated sounds are metaphorical sounds.
+At the end of the Usual suspects the detective is looking at the peg board and theres all these voices playing but no body is in the scene to say them. that is metaphorical sound I think
+
+2. Murch mentions birdsong as a cliched sound to ‘lighten’ a film’s mood. Name and describe at least two other sound cliches used to control viewers’ emotions in film and television.
+
+the sound of a knife being wielded someone and it go shing or the Wilhelm scream has been used for decades and has gotten to the point that producers add it in as a easter egg.
+
+3. What does Murch mean when he describes his technique of “worldizing”? How might this
+be applicable to sound design in games?
+
+In his example he created a radio show and recorded it. Later he played it back and recorded it with a second exteral recorder and captured all the background sound in the real world.
+In games this could help with realism in some cases like a adding in background noises to a commander as he radios to his soldiers.
+
+4. What does Murch argue is the correct use of music in film? Do you agree or disagree? Explain.
+
+I think what he is saying is that the correct way to use music is me make it emphasize what is happening on screen. Which i agree with to a certain extent. I do think that background music can help with a quiet scene that doesnt need to be intense or anything significant. It can just be two guys talking about cheese burgers and what they are called in britain while music plays on the radio
+>>>>>>> e1a9246fcc28d9dd88bbebfebbb3fcc9da741ce1
